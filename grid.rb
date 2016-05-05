@@ -87,5 +87,4 @@ class Grid
 
     output
   end
-  
 end
